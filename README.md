@@ -1,2 +1,2 @@
-# piccdn 线下版本picGo
+# autopiccdn 线下版本picGo
 # 基于github
